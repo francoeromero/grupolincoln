@@ -66,7 +66,7 @@ const Login = ({ onLogin }) => {
               <img 
                 src="https://blogger.googleusercontent.com/img/a/AVvXsEhIv4DBp0pRcdsjviC5BvPyR5K8FapKwOGRPrLbx7Fd1DPy6h4tdNKNoWxhfjCfUhx3KzreHj7JmnBFJ004JE3OvSLLoH5OiWwDU8SCCJC3JnZ7qooLi2qY0wbni3e2QXyX4HvdKPNcC6o3kT9PX9ARO57JTUOEkxFppMIdob7RokTBc4NaEb5C1A5xrtbG"
                 alt="Logo de la empresa"
-                className="h-20 object-contain"
+                className="h-32 object-contain"
               />
             </div>
 
